@@ -1,5 +1,5 @@
 
-# cretae new GraphQl Server to fetch data 
+# Create new GraphQl Server to fetch data 
 
 run following common  on terminal  to run serve
 
